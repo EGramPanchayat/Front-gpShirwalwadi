@@ -36,7 +36,7 @@ const stats = [
   { icon: "🌾", number: "686.69 ", label: "हेक्टर क्षेत्रफळ" },
   { icon: "🏘", number: "3", label: "वार्ड संख्या" },
   { icon: "👥", number: "1418", label: "एकूण लोकसंख्या" },
-  { icon: "🏠", number: "313", label: "कुटुंब संख्या" },
+  { icon: "🏠", number: "278", label: "कुटुंब संख्या" },
 ];
 
 
